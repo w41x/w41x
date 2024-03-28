@@ -1,1 +1,1 @@
-Current stack: PayloadCMS, MongoDB, NATS, NextJS + ReactJS + TailwindCSS, Flutter
+Current stack: PayloadCMS + MongoDB, Zitadel, NATS, NextJS + ReactJS + TailwindCSS, Flutter
